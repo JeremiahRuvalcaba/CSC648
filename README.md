@@ -51,7 +51,7 @@
   </p>
   
 ### The Three Pillars of Social Interaction
-So, if teamwork is the best route to producing great software, how does one build (or find) a great team?
+- So, if teamwork is the best route to producing great software, how does one build (or find) a great team?
 To reach collaborative nirvana, you first need to learn and embrace what I call the “three pillars” of social skills. These three principles aren’t just about greasing the wheels of relationships; they’re the foundation on which all healthy interaction and collaboration are based:
  34 | Chapter 2: How to Work Well on Teams
 Pillar 1: Humility
