@@ -46,11 +46,7 @@
     "The only way to become excellent is to be endlessly fascinated by the same thing over and over. You have to fall in love with boredom."
     <br />
   </p>
-                                                                                                                                            
-  <p align="center">
-    "You owe the world the best version of yourslf."
-    <br />
-  </p>
+                                                                                                                                          
                                                                                   
                                                                                   
                                                                                   
