@@ -51,6 +51,19 @@
     "You owe the world the best version of yourslf."
     <br />
   </p>
+
+```js
+import {Quote} from '@github/quote-selection'
+
+document.addEventListener('keydown', event => {
+  if (event.key == 'r') {
+    const quote = new Quote()
+    if (quote.closest('.my-quote-region')) {
+      quote.insert(document.querySelector('textarea'))
+    }
+  }
+})
+```
                                                                                   
                                                                                   
                                                                                   
