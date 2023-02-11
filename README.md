@@ -34,10 +34,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">CSC 648 Team Project</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    "Programming is not about what you know, IT is about what you can figure out!"
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
