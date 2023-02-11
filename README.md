@@ -118,8 +118,8 @@
 * []()                                      
 * []()
 * []()       
-
-## Team Members [Our Team Discord Channel](https://discord.gg/D8CfRxBb)
+## [Join Team Discord Channel](https://discord.gg/D8CfRxBb)
+## Team Members
 <!-- This information will be removed if/when the repository is made public -->
 | Name                    | Email                   |   Discord     |    Position      |
 | ----------------------- | ------------------------| ------------- | ---------------- |
