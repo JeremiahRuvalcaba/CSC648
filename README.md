@@ -240,6 +240,13 @@ Use this space to list resources you find helpful and would like to give credit 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+## Resources
+
+[Agile Software Development](https://agilemanifesto.org)
+[Manifesto for Agile Software Development](https://agilemanifesto.org)
+[Learn about Agile project management and SCRUM](https://learndigital.withgoogle.com/digitalgarage/course/learn-about-agile-project-management-and-scrum)
+[Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -272,10 +279,3 @@ Use this space to list resources you find helpful and would like to give credit 
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
-
-## Resources
-
-[Agile Software Development]: https://agilemanifesto.org
-[Manifesto for Agile Software Development]: https://agilemanifesto.org
-[Learn about Agile project management and SCRUM]: https://learndigital.withgoogle.com/digitalgarage/course/learn-about-agile-project-management-and-scrum
-[Google JavaScript Style Guide]: https://google.github.io/styleguide/jsguide.html
