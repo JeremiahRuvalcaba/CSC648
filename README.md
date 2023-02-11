@@ -91,6 +91,33 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
+                                  
+## Resources
+* [Agile Software Development](https://agilemanifesto.org)
+* [Manifesto for Agile Software Development](https://agilemanifesto.org)
+* [Learn about Agile project management and SCRUM](https://learndigital.withgoogle.com/digitalgarage/course/learn-about-agile-project-management-and-scrum)
+* [Google Style Guides](https://github.com/google/styleguide)
+* [Google Web Developement](https://web.dev)                                      
+* [Google Engineering Practices Documentation](https://github.com/google/eng-practices)
+* [Google Optimization Tools](https://github.com/google/or-tools)                                      
+* [ChatGPT](https://openai.com/blog/chatgpt/)                                      
+* [Trello](https://trello.com)
+* [Google Developer Resources](https://developers.google.com)                                      
+* []()                                      
+* []()
+* []()                                      
+* []()                                      
+* []()
+* []()                                      
+* []()                                      
+* []()
+* []()                                      
+* []()                                      
+* []()
+* []()                                      
+* []()                                      
+* []()
+* []()       
 
 ## Team Members
 <!-- This information will be removed if/when the repository is made public -->
@@ -274,33 +301,7 @@ Use this space to list resources you find helpful and would like to give credit 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## Resources
-
-* [Agile Software Development](https://agilemanifesto.org)
-* [Manifesto for Agile Software Development](https://agilemanifesto.org)
-* [Learn about Agile project management and SCRUM](https://learndigital.withgoogle.com/digitalgarage/course/learn-about-agile-project-management-and-scrum)
-* [Google Style Guides](https://github.com/google/styleguide)
-* [Google Web Developement](https://web.dev)                                      
-* [Google Engineering Practices Documentation](https://github.com/google/eng-practices)
-* [Google Optimization Tools](https://github.com/google/or-tools)                                      
-* [ChatGPT](https://openai.com/blog/chatgpt/)                                      
-* [Trello](https://trello.com)
-* [Google Developer Resources](https://developers.google.com)                                      
-* []()                                      
-* []()
-* []()                                      
-* []()                                      
-* []()
-* []()                                      
-* []()                                      
-* []()
-* []()                                      
-* []()                                      
-* []()
-* []()                                      
-* []()                                      
-* []()
-* []()                                      
+                               
 
                                        
 
