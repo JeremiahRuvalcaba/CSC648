@@ -43,7 +43,7 @@
   </p>
                                                                                    
   <p align="center">
-    "The only way to become excellent is to be endlessly fascinated by the same thing over and over. You have to fall in love with boredom. - James Clear"
+    "The only way to become excellent is to be endlessly fascinated by the same thing over and over. You have to fall in love with boredom."
     <br />
   </p>
                                                                                                                                             
@@ -51,19 +51,6 @@
     "You owe the world the best version of yourslf."
     <br />
   </p>
-
-```js
-import {Quote} from 'Life'
-
-document.addQuote('keydown', event => {
-  if (event.key == 'r') {
-    const quote = new Quote()
-    if (quote.closest('.my-quote-region')) {
-      quote.insert(document.querySelector('textarea'))
-    }
-  }
-})
-```
                                                                                   
                                                                                   
                                                                                   
