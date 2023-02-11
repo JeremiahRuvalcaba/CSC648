@@ -33,7 +33,7 @@
   <a href="[agile](https://user-images.githubusercontent.com/65887526/218228344-8247c74e-1ab1-4584-af09-9ac6c03c3825.jpeg)">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
-
+</div>
 
   <h3 align="center">CSC 648 Team Project</h3>
 
