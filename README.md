@@ -92,6 +92,13 @@
   </ol>
 </details>
                                   
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Resources
 * [Agile Software Development](https://agilemanifesto.org)
 * [Manifesto for Agile Software Development](https://agilemanifesto.org)
@@ -148,13 +155,6 @@
 |     9       | M2:                                                   |            TODO            |
 |     10      | M2:                                                   |            TODO            |
                                   
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ### Built With
 
