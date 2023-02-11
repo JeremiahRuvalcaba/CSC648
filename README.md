@@ -96,16 +96,16 @@
 <!-- This information will be removed if/when the repository is made public -->
 | Name                    | Email                   |   Phone    |    Position    |
 | ----------------------- | ------------------------| ---------- | -------------- |
+|                         |                         |            | Front End Lead |
+|                         |                         |            | Back End Lead  |
+|                         |                         |            | Github Lead    |
+|                         |                         |            |                |
+|                         |                         |            |                |
+|                         |                         |            |                |
+|                         |                         |            |                |
 | Dylan Burns             | dburns6@sfsu.edu        | 6194159870 | Team Lead      |
-|                         |                         |            |                |
-|                         |                         |            |                |
-|                         |                         |            |                |
-|                         |                         |            |                |
-|                         |                         |            |                |
-|                         |                         |            |                |
-
                                   
-## Milestone                              
+## Milestones                              
 | Checkpoints |                      Description                      |          TODO/DONE         |
 | ----------- | ----------------------------------------------------- | -------------------------- |
 |     1       | M1:                                                   |            TODO            |
