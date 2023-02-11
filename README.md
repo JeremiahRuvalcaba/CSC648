@@ -47,7 +47,7 @@
     <br />
   </p>
                                                                                                                                             
-                                                                                                                                             <p align="center">
+  <p align="center">
     "You owe the world the best version of yourslf."
     <br />
   </p>
