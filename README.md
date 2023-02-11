@@ -118,7 +118,7 @@
 * []()                                      
 * []()
 * []()       
-## [Join Team Discord Channel](https://discord.gg/D8CfRxBb)
+
 ## Team Members
 <!-- This information will be removed if/when the repository is made public -->
 | Name                    | Email                   |   Discord     |    Position      |
@@ -132,7 +132,7 @@
 | Dragutin Petkovic       | petkovic@sfsu.edu       |               | Core Team Member |
 | Anthony John Souza      | ajsouza@sfsu.edu        |               | Core Team Member |
 | Dylan Burns             | dburns6@sfsu.edu        | Dylan#6079    | Team Lead        |
-                                  
+### [Join Team Discord Channel](https://discord.gg/D8CfRxBb)                             
                                   
 ## Milestones                              
 | Checkpoints |                      Description                      |          TODO/DONE         |
