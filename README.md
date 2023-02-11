@@ -55,13 +55,13 @@ So, if teamwork is the best route to producing great software, how does one buil
 To reach collaborative nirvana, you first need to learn and embrace what I call the “three pillars” of social skills. These three principles aren’t just about greasing the wheels of relationships; they’re the foundation on which all healthy interaction and collaboration are based:
 
 #### Pillar 1: Humility
- * You are not the center of the universe (nor is your code!). You’re neither omniscient nor infallible. You’re open to self-improvement.
+* You are not the center of the universe (nor is your code!). You’re neither omniscient nor infallible. You’re open to self-improvement.
 #### Pillar 2: Respect
- * You genuinely care about others you work with. You treat them kindly and appreciate their abilities and accomplishments.
+* You genuinely care about others you work with. You treat them kindly and appreciate their abilities and accomplishments.
 #### Pillar 3: Trust
- * You believe others are competent and will do the right thing, and you’re OK with letting them drive when appropriate.
+* You believe others are competent and will do the right thing, and you’re OK with letting them drive when appropriate.
 
-* If you perform a root-cause analysis on almost any social conflict, you can ultimately trace it back to a lack of humility, respect, and/or trust. That might sound implausible at first, but give it a try. Think about some nasty or uncomfortable social situation currently in your life. At the basest level, is everyone being appropriately humble? Are people really respecting one another? Is there mutual trust?
+If you perform a root-cause analysis on almost any social conflict, you can ultimately trace it back to a lack of humility, respect, and/or trust. That might sound implausible at first, but give it a try. Think about some nasty or uncomfortable social situation currently in your life. At the basest level, is everyone being appropriately humble? Are people really respecting one another? Is there mutual trust?
  
                                                                                                                                             
 <!-- DISABLED -->                                                                                 
