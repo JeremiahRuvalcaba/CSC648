@@ -43,7 +43,7 @@
   </p>
                                                                                    
   <p align="center">
-    "The only way to become excellent is to be endlessly fascinated by the same thing over and over. You have to fall in love with boredom."
+    "The only way to become excellent is to be endlessly fascinated by the same thing over and over. You have to fall in love with boredom. - James Clear"
     <br />
   </p>
                                                                                                                                             
