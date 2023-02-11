@@ -92,6 +92,7 @@
   </ol>
 </details>
 
+## Team Members
 <!-- This information will be removed if/when the repository is made public -->
 | Name                    | Email                   |   Phone    |    Position    |
 | ----------------------- | ------------------------| ---------- | -------------- |
