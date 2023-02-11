@@ -94,15 +94,15 @@
 
 ## Team Members
 <!-- This information will be removed if/when the repository is made public -->
-| Name                    | Email                   |   Phone    |    Position      |
-| ----------------------- | ------------------------| ---------- | ---------------- |
-|                         |                         |            | Front End Lead   |
-|                         |                         |            | Back End Lead    |
-|                         |                         |            | Github Lead      |
-|                         |                         |            | Core Team Member |
-|                         |                         |            | Core Team Member |
-|                         |                         |            | Core Team Member |
-| Dylan Burns             | dburns6@sfsu.edu        | 6194159870 | Team Lead        |
+| Name                    | Email                   |   Phone       |    Position      |
+| ----------------------- | ------------------------| ------------- | ---------------- |
+|                         |                         |               | Front End Lead   |
+|                         |                         |               | Back End Lead    |
+|                         |                         |               | Github Lead      |
+|                         |                         |               | Core Team Member |
+|                         |                         |               | Core Team Member |
+|                         |                         |               | Core Team Member |
+| Dylan Burns             | dburns6@sfsu.edu        | (619)415-9870 | Team Lead        |
                                   
 ## Milestones                              
 | Checkpoints |                      Description                      |          TODO/DONE         |
