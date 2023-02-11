@@ -27,7 +27,7 @@
 -->
 
 <div>
-   <h3 align="center" style="font-size:20px;">CSC 648 Team Project</h3>
+   <h3 align="center" style="font-size:40px;">CSC 648 Team Project</h3>
 </div>
 
 <!-- PROJECT LOGO -->
