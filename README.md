@@ -30,9 +30,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="[agile](https://user-images.githubusercontent.com/65887526/218228344-8247c74e-1ab1-4584-af09-9ac6c03c3825.jpeg)">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
+
 
   <h3 align="center">CSC 648 Team Project</h3>
 
@@ -272,4 +273,9 @@ Use this space to list resources you find helpful and would like to give credit 
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
 
+## Resources
 
+[Agile Software Development]: https://agilemanifesto.org
+[Manifesto for Agile Software Development]: https://agilemanifesto.org
+[Learn about Agile project management and SCRUM]: https://learndigital.withgoogle.com/digitalgarage/course/learn-about-agile-project-management-and-scrum
+[Google JavaScript Style Guide]: https://google.github.io/styleguide/jsguide.html
