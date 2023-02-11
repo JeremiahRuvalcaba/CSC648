@@ -284,7 +284,7 @@ Use this space to list resources you find helpful and would like to give credit 
 * [Google Engineering Practices Documentation](https://github.com/google/eng-practices)
 * [Google Optimization Tools](https://github.com/google/or-tools)                                      
 * [ChatGPT](https://openai.com/blog/chatgpt/)                                      
-* []()
+* [Trello](https://trello.com)
 * []()                                      
 * []()                                      
 * []()
