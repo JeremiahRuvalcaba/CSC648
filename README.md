@@ -104,6 +104,20 @@
 |                         |                         |            |                |
 
                                   
+## Milestone                              
+| Checkpoints |                      Description                      |          TODO/DONE         |
+| ----------- | ----------------------------------------------------- | -------------------------- |
+|     1       | M1:                                                   |            TODO            |
+|     2       | M1:                                                   |            TODO            |
+|     3       | M1:                                                   |            TODO            |
+|     4       | M1:                                                   |            TODO            |
+|     5       | M1:                                                   |            TODO            |
+|     6       | M1:                                                   |            TODO            |
+|     7       | M1:                                                   |            TODO            |
+|     8       | M2:                                                   |            TODO            |
+|     9       | M2:                                                   |            TODO            |
+|     10      | M2:                                                   |            TODO            |
+                                  
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
