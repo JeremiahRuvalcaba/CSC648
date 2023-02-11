@@ -49,13 +49,9 @@
     "The only way to become excellent is to be endlessly fascinated by the same thing over and over. You have to fall in love with boredom."
     <br />
   </p>
-                                                                                                                                          
-                                                                                  
-                                                                                  
-                                                                                  
-                                                                                  
-                                                                                  
- <!-- DISABLED -->                                                                                 
+ 
+                                                                                                                                            
+<!-- DISABLED -->                                                                                 
 <!--     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
@@ -66,14 +62,10 @@
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a> 
 -->
    
-                                                                        
-                                                                        
-           
-                                                                        
-                                                                        
 
 </div>
 
+<br />
 
 <!-- TABLE OF CONTENTS -->
 <details>
