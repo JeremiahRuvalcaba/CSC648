@@ -77,10 +77,10 @@
       </ul>
     </li>                      
     <li>
-      <a href="#resources">About The Project</a>
+      <a href="#resources">Resources</a>
       <ul>
-        <li><a href="#team-members">Built With</a></li>
-        <li><a href="#milestones">Built With</a></li>
+        <li><a href="#team-members">Team Members</a></li>
+        <li><a href="#milestones">Milestones</a></li>
       </ul>
     </li>
     <li>
