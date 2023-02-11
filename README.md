@@ -55,7 +55,7 @@
 ```js
 import {Quote} from 'Life'
 
-document.addEventListener('keydown', event => {
+document.addQuote('keydown', event => {
   if (event.key == 'r') {
     const quote = new Quote()
     if (quote.closest('.my-quote-region')) {
