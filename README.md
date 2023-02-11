@@ -275,7 +275,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 ## Resources
 
-[Agile Software Development]: https://agilemanifesto.org
+[Agile Software Development](https://agilemanifesto.org)
 [Manifesto for Agile Software Development]: https://agilemanifesto.org
 [Learn about Agile project management and SCRUM]: https://learndigital.withgoogle.com/digitalgarage/course/learn-about-agile-project-management-and-scrum
 [Google JavaScript Style Guide]: https://google.github.io/styleguide/jsguide.html
