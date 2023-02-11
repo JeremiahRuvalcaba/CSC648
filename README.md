@@ -26,6 +26,9 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 -->
 
+<div>
+   <h3 align="center">CSC 648 Team Project</h3>
+</div>
 
 <!-- PROJECT LOGO -->
 <br />
@@ -35,7 +38,7 @@
 
 </div>
 
-  <h3 align="center">CSC 648 Team Project</h3>
+ 
 
   <p align="center">
     "Programming is not about what you know — it is about what you can figure out."
