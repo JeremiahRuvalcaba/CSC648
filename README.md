@@ -38,7 +38,7 @@
   <h3 align="center">CSC 648 Team Project</h3>
 
   <p align="center">
-    "Programming is not about what you know, IT is about what you can figure out!"
+    "Programming is not about what you know — it is about what you can figure out"
     <br />
  
                                                                                   
