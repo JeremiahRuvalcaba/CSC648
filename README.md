@@ -285,7 +285,7 @@ Use this space to list resources you find helpful and would like to give credit 
 * [Google Optimization Tools](https://github.com/google/or-tools)                                      
 * [ChatGPT](https://openai.com/blog/chatgpt/)                                      
 * [Trello](https://trello.com)
-* []()                                      
+* [Google Developer Resources](https://developers.google.com)                                      
 * []()                                      
 * []()
 * []()                                      
