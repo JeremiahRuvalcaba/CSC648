@@ -121,7 +121,7 @@
 
 ## Team Members
 <!-- This information will be removed if/when the repository is made public -->
-| Name                    | Email                   |   Phone       |    Position      |
+| Name                    | Email                   |   Discord     |    Position      |
 | ----------------------- | ------------------------| ------------- | ---------------- |
 |                         |                         |               | Front End Lead   |
 |                         |                         |               | Back End Lead    |
@@ -129,7 +129,11 @@
 |                         |                         |               | Core Team Member |
 |                         |                         |               | Core Team Member |
 |                         |                         |               | Core Team Member |
-| Dylan Burns             | dburns6@sfsu.edu        | (619)415-9870 | Team Lead        |
+| Dragutin Petkovic       | petkovic@sfsu.edu       |               | Core Team Member |
+| Anthony John Souza      | ajsouza@sfsu.edu        |               | Core Team Member |
+| Dylan Burns             | dburns6@sfsu.edu        | Dylan#6079    | Team Lead        |
+                                  
+* [Our Team Discord Channel](https://discord.gg/D8CfRxBb)
                                   
 ## Milestones                              
 | Checkpoints |                      Description                      |          TODO/DONE         |
