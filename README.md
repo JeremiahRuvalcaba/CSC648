@@ -92,19 +92,18 @@
   </ol>
 </details>
 
-| Checkpoints |                      Description                      |          TODO/DONE         |
-| ----------- | ----------------------------------------------------- | -------------------------- |
-|     1       | M1: Product Summary                                   |            TODO            |
-|     2       | M1: Database Requirements                             |            TODO            |
-|     3       | M1: Entity Relationship Diagram (ERD)                 |            TODO            |
-|     4       | M1: DB Entities Description                           |            TODO            |
-|     5       | M1: Entity Establishment Relationship Diagram  (EER)  |            TODO            |
-|     6       | M1: Forward Engineering and Sample Data               |            TODO            |
-|     7       | M1: DB Business Rules Description                     |            TODO            |
-|     8       | M2: Data Access Object Modeling                       |            TODO            |
-|     9       | M2: Bot Setup                                         |            TODO            |
-|     10      | M2: Bot Implementation & Testing                      |            TODO            |
+<!-- This information will be removed if/when the repository is made public -->
+| Name                    | Email                   |   Phone    |    Position    |
+| ----------------------- | ------------------------| ---------- | -------------- |
+| Dylan Burns             | dburns6@sfsu.edu        | 6194159870 | Team Lead      |
+|                         |                         |            |                |
+|                         |                         |            |                |
+|                         |                         |            |                |
+|                         |                         |            |                |
+|                         |                         |            |                |
+|                         |                         |            |                |
 
+                                  
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
