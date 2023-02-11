@@ -53,7 +53,7 @@
   </p>
 
 ```js
-import {Quote} from '@github/quote-selection'
+import {Quote} from 'Life'
 
 document.addEventListener('keydown', event => {
   if (event.key == 'r') {
