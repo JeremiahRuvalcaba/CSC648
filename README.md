@@ -55,7 +55,7 @@
 To reach collaborative nirvana, you first need to learn and embrace what I call the “three pillars” of social skills. These three principles aren’t just about greasing the wheels of relationships; they’re the foundation on which all healthy interaction and collaboration are based:
 
 #### Pillar 1: Humility
-** You are not the center of the universe (nor is your code!). You’re neither omniscient nor infallible. You’re open to self-improvement.
+* * You are not the center of the universe (nor is your code!). You’re neither omniscient nor infallible. You’re open to self-improvement.
 #### Pillar 2: Respect
 ** You genuinely care about others you work with. You treat them kindly and appreciate their abilities and accomplishments.
 #### Pillar 3: Trust
