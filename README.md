@@ -282,7 +282,7 @@ Use this space to list resources you find helpful and would like to give credit 
 * [Google Style Guides](https://github.com/google/styleguide)
 * [Google Web Developement](https://web.dev)                                      
 * [Google Engineering Practices Documentation](https://github.com/google/eng-practices)
-* []()                                      
+* [Google Optimization Tools](https://github.com/google/or-tools)                                      
 * []()                                      
 * []()
 * []()                                      
