@@ -80,7 +80,6 @@ Please see pdf file attatched in repository
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Resources
-* [Agile Software Development](https://agilemanifesto.org)
 * [Manifesto for Agile Software Development](https://agilemanifesto.org)
 * [Learn about Agile project management and SCRUM](https://learndigital.withgoogle.com/digitalgarage/course/learn-about-agile-project-management-and-scrum)
 * [Google Style Guides](https://github.com/google/styleguide)
