@@ -116,22 +116,7 @@ Please see pdf file attatched in repository
 * [Google Optimization Tools](https://github.com/google/or-tools)                                      
 * [ChatGPT](https://openai.com/blog/chatgpt/)                                      
 * [Trello](https://trello.com)
-* [Google Developer Resources](https://developers.google.com)                                      
-* []()                                      
-* []()
-* []()                                      
-* []()                                      
-* []()
-* []()                                      
-* []()                                      
-* []()
-* []()                                      
-* []()                                      
-* []()
-* []()                                      
-* []()                                      
-* []()
-* []()       
+* [Google Developer Resources](https://developers.google.com)                                             
 
 ## Team Members
 <!-- This information will be removed if/when the repository is made public -->
@@ -149,19 +134,20 @@ Please see pdf file attatched in repository
 ### [Join Team Discord Channel](https://discord.gg/D8CfRxBb)                             
                                   
 ## Milestones                              
-| Checkpoints |                      Description                      |          TODO/DONE         |
-| ----------- | ----------------------------------------------------- | -------------------------- |
-|     1       | M1:                                                   |            TODO            |
-|     2       | M1:                                                   |            TODO            |
-|     3       | M1:                                                   |            TODO            |
-|     4       | M1:                                                   |            TODO            |
-|     5       | M1:                                                   |            TODO            |
-|     6       | M1:                                                   |            TODO            |
-|     7       | M1:                                                   |            TODO            |
-|     8       | M2:                                                   |            TODO            |
-|     9       | M2:                                                   |            TODO            |
-|     10      | M2:                                                   |            TODO            |
-                                  
+| Checkpoints |                      Description                      |          TODO/DONE         |    Due Date    |
+| ----------- | ----------------------------------------------------- | -------------------------- | -------------- |
+|     1       | M0:                                                   |            TODO            |                |
+|     2       | M0:                                                   |            TODO            |                |
+|     3       | M1:                                                   |            TODO            |                |
+|     4       | M1:                                                   |            TODO            |                |
+|     5       | M1:                                                   |            TODO            |                |
+|     6       | M1:                                                   |            TODO            |                |
+|     7       | M1:                                                   |            TODO            |                |
+|     8       | M2:                                                   |            TODO            |                |
+|     9       | M2:                                                   |            TODO            |                |
+|     10      | M2:                                                   |            TODO            |                |
+|     11      | M2:                                                   |            TODO            |                |
+|     12      | M2:                                                   |            TODO            |                |
 
 ### Built With
 
