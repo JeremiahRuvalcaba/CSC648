@@ -137,7 +137,7 @@ Please see pdf file attatched in repository
 | Checkpoints |                      Description                      |          TODO/DONE         |    Due Date    |
 | ----------- | ----------------------------------------------------- | -------------------------- | -------------- |
 |     1       | M0: Choose Software Stack                             |            TODO            |   02/17/2023   |
-|     2       | M0: configure base application/update credentials     |            TODO            |                |
+|     2       | M0: configure base application/update credentials     |            TODO            |   02/24/2023   |
 |     3       | M1:                                                   |            TODO            |                |
 |     4       | M1:                                                   |            TODO            |                |
 |     5       | M1:                                                   |            TODO            |                |
